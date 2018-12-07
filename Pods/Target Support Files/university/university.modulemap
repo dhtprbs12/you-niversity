@@ -1,0 +1,6 @@
+framework module university {
+  umbrella header "university-umbrella.h"
+
+  export *
+  module * { export * }
+}

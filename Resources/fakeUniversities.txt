@@ -1,0 +1,101 @@
+All Universities
+Stanford University
+Yale University
+Massachusetts Institute of Technology
+Rice University
+Princeton University
+University of Pennsylvania
+Brown University
+Bowdoin College
+California Institute of Technology
+Columbia University
+Duke University
+Vanderbilt University
+Harvard University
+Dartmouth College
+University of Notre Dame
+University of Chicago
+Pomona College
+University of Southern California
+Cornell University
+Northwestern University
+Tufts University
+Washington University in St. Louis
+University of Michigan - Ann Arbor
+Georgetown University
+Carleton College
+Harvey Mudd College
+Emory University
+Middlebury College
+Carnegie Mellon University
+Washington & Lee University
+Swarthmore College
+University of Virginia
+Barnard College
+Claremont McKenna College
+Georgia Institute of Technology
+University of California - Los Angeles
+Wake Forest University
+Haverford College
+Virginia Tech
+University of North Carolina at Chapel Hill
+Amherst College
+University of California - Berkeley
+Colby College
+Davidson College
+Colgate University
+University of Texas - Austin
+Lehigh University
+Wellesley College
+Williams College
+Northeastern University
+Bates College
+University of Richmond
+New York University
+Johns Hopkins University
+Boston College
+Wesleyan University
+Hamilton College
+College of William & Mary
+University of Wisconsin
+University of Rochester
+University of Illinois at Urbana-Champaign
+University of Florida
+Colorado School of Mines
+Reed College
+Scripps College
+Case Western Reserve University
+Grinnell College
+University of Georgia
+Bucknell University
+Smith College
+Bryn Mawr College
+Rensselaer Polytechnic Institute
+Tulane University
+College of the Holy Cross
+Lafayette College
+Texas A&M University
+Purdue University
+Macalester College
+Pitzer College
+Franklin & Marshall College
+Penn State
+University of California - Santa Barbara
+The Ohio State University
+Brigham Young University
+University of Minnesota - Twin Cities
+Boston University
+University of Miami
+Mount Holyoke College
+Michigan State University
+University of Tulsa
+Colorado College
+University of Washington
+Worcester Polytechnic Institute
+Southern Methodist University
+University of Maryland - College Park
+North Carolina State University
+The Cooper Union for the Advancement of Science and Art
+Villanova University
+Stevens Institute of Technology
+Clemson University
