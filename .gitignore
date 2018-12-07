@@ -1,0 +1,5 @@
+# : ignore these files
+
+*.lock
+*.podspec
+GRPC.swift
